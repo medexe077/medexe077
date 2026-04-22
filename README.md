@@ -18,9 +18,9 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
+- :hourglass_flowing_sand: Exploring Google Cloud, AWS and Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
-- :zap: Fun fact: Im in love with hackathons
+- :zap: Fun fact: i dont have any
 
 
 <div align="center">
