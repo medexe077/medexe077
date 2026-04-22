@@ -5,7 +5,7 @@
  <abc> 
  
    
-  <br> I'm Mohamed Kheddari, a Web Developer :computer:<br>
+  <br> I'm Mohamed Kheddari, a FullStack Web Developer :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
