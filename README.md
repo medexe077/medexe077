@@ -19,8 +19,8 @@ I specialize in DFIR and Blue Team operations: alert triage, threat hunting, log
 
 ### 🛠️ Skills
 
-**SIEM & EDR:** Wazuh · Microsoft Sentinel · Defender XDR · KQL
-**Forensics & IR:** Memory / Disk / Network Forensics · Threat Hunting · Log Analysis · MITRE ATT&CK · OSINT
+**SIEM & EDR:** Wazuh · Microsoft Sentinel · Defender XDR · KQL<br/>
+**Forensics & IR:** Memory / Disk / Network Forensics · Threat Hunting · Log Analysis · MITRE ATT&CK · OSINT<br/>
 **Tools:** Volatility · Autopsy · Wireshark · Python · Linux
 
 ### 🔍 Projects
