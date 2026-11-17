@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://mohameddkheddari.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://medexe077.github.io"><img src="https://img.shields.io/badge/CTF%20Blog-0A0A0A?style=for-the-badge" alt="CTF Blog"/></a>
+  <a href="https://mohamedkheddari.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://medexe077.github.io/blog/"><img src="https://img.shields.io/badge/CTF%20Blog-0A0A0A?style=for-the-badge" alt="CTF Blog"/></a>
   <a href="https://www.linkedin.com/in/mohamedkheddari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
@@ -27,11 +27,11 @@ I specialize in DFIR and Blue Team operations: alert triage, threat hunting, log
 
 | Project | What it shows |
 |---|---|
-| **Home Security Lab (Wazuh SIEM)** | SOC-style home lab: log monitoring, alert triage and investigation |
-| **Sentinel & Defender XDR Labs** | Attack investigation and remediation, KQL hunting queries, analytics rules, Logic Apps playbooks |
 | [**fr0str4v4**](https://github.com/medexe077/fr0str4v4) | Autonomous CTF challenge analysis with tool orchestration (nmap, sqlmap, gdb), in Python |
-| **Aqualink** · JunctionX Algiers 2025 | Anomaly detection and data security architecture for an IoT water-quality system |
-| **Attendify** | AI attendance system: 87% facial recognition accuracy, 30+ API integrations |
+| [**AquaLink**](https://github.com/medexe077/AquaLink) · JunctionX Algiers 2025 | AI-powered aquaculture system: anomaly detection, data pipelines and data security architecture for water-quality monitoring, built for a real COSIDER challenge |
+| [**Attendify**](https://github.com/medexe077/Attendify) | Attendance tracker using face scanning and QR codes: 87% facial recognition accuracy, 30+ API integrations (fork of [zoncagit/attendify](https://github.com/zoncagit/attendify)) |
+| **Sentinel & Defender XDR Labs** | Attack investigation and remediation, KQL hunting queries, analytics rules, Logic Apps playbooks |
+| **Home Security Lab (Wazuh SIEM)** | SOC-style home lab: log monitoring, alert triage and investigation |
 
 ### 🎓 Certifications
 
@@ -43,4 +43,4 @@ Microsoft Student Ambassador · Hackviser Campus Ambassador · Quantum Cryptogra
 
 ---
 
-<p align="center"><i>Writeups on my <a href="https://medexe077.github.io">blog</a> · More on my <a href="https://mohameddkheddari.vercel.app/">portfolio</a></i></p>
+<p align="center"><i>Writeups on my <a href="https://medexe077.github.io/blog/">blog</a> · More on my <a href="https://mohamedkheddari.vercel.app/">portfolio</a></i></p>
