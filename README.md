@@ -29,7 +29,7 @@ I specialize in DFIR and Blue Team operations: alert triage, threat hunting, log
 |---|---|
 | [**fr0str4v4**](https://github.com/medexe077/fr0str4v4) | Autonomous CTF challenge analysis with tool orchestration (nmap, sqlmap, gdb), in Python |
 | [**AquaLink**](https://github.com/medexe077/AquaLink) · JunctionX Algiers 2025 | AI-powered aquaculture system: anomaly detection, data pipelines and data security architecture for water-quality monitoring, built for a real COSIDER challenge |
-| [**Attendify**](https://github.com/medexe077/Attendify) | Attendance tracker using face scanning and QR codes: 87% facial recognition accuracy, 30+ API integrations (fork of [zoncagit/attendify](https://github.com/zoncagit/attendify)) |
+| [**Attendify**](https://github.com/medexe077/Attendify) | Attendance tracker using face scanning and QR codes: 87% facial recognition accuracy, 30+ API integrations|
 | **Sentinel & Defender XDR Labs** | Attack investigation and remediation, KQL hunting queries, analytics rules, Logic Apps playbooks |
 | **Home Security Lab (Wazuh SIEM)** | SOC-style home lab: log monitoring, alert triage and investigation |
 
