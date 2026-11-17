@@ -1,7 +1,7 @@
 <h1 align="center">Mohamed Kheddari</h1>
 
 <p align="center">
-  <b> Cybersecurity Engineer | CTF Player | CCNA | AI Systems Security | DFIR · Threat Hunting · Detection Engineering
+  <b> Cybersecurity Engineer | CTF Player | CCNA | AI Security | DFIR · Threat Hunting · Detection Engineering
 </p>
 
 <p align="center">
