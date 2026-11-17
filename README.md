@@ -1,8 +1,7 @@
 <h1 align="center">Mohamed Kheddari</h1>
 
 <p align="center">
-  <b>DFIR | Threat Hunting | Blue Team Operations | Detection Engineering</b><br/>
-  Cybersecurity Engineering student · Class of 2028 · Blida, Algeria
+  <b> Cybersecurity Engineer | CTF Player | CCNA | AI Systems Security | DFIR · Threat Hunting · Detection Engineering
 </p>
 
 <p align="center">
