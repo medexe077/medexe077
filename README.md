@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mohamedkheddari.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://mohamedkheddari.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-00C896?style=for-the-badge&labelColor=0A0A0A" alt="Portfolio"/></a>
   <a href="https://medexe077.github.io/blog/"><img src="https://img.shields.io/badge/CTF%20Blog-0A0A0A?style=for-the-badge" alt="CTF Blog"/></a>
   <a href="https://www.linkedin.com/in/mohamedkheddari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
