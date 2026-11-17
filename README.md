@@ -1,109 +1,46 @@
-<h1 align="center"> HELLO! </h1>
+<h1 align="center">Mohamed Kheddari</h1>
 
-####
-<h2 align="left">  
- <abc> 
- 
-   
-  <br> I'm Mohamed Kheddari, a FullStack Web Developer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
+<p align="center">
+  <b>DFIR | Threat Hunting | Blue Team Operations | Detection Engineering</b><br/>
+  Cybersecurity Engineering student · Class of 2028 · Blida, Algeria
+</p>
 
+<p align="center">
+  <a href="https://mohameddkheddari.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://medexe077.github.io"><img src="https://img.shields.io/badge/CTF%20Blog-0A0A0A?style=for-the-badge" alt="CTF Blog"/></a>
+  <a href="https://www.linkedin.com/in/mohamedkheddari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
+---
 
-    
+### 👋 About
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+I specialize in DFIR and Blue Team operations: alert triage, threat hunting, log analysis, and incident investigation with **Microsoft Sentinel, Defender XDR, Wazuh, and KQL**. Focused on security monitoring, threat detection, and incident response.
 
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring Google Cloud, AWS and Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :zap: Fun fact: i dont have any
+### 🛠️ Skills
 
+**SIEM & EDR:** Wazuh · Microsoft Sentinel · Defender XDR · KQL
+**Forensics & IR:** Memory / Disk / Network Forensics · Threat Hunting · Log Analysis · MITRE ATT&CK · OSINT
+**Tools:** Volatility · Autopsy · Wireshark · Python · Linux
 
-<div align="center">
- 
-<div align="center">
- 
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+### 🔍 Projects
 
-  <br /><br />
+| Project | What it shows |
+|---|---|
+| **Home Security Lab (Wazuh SIEM)** | SOC-style home lab: log monitoring, alert triage and investigation |
+| **Sentinel & Defender XDR Labs** | Attack investigation and remediation, KQL hunting queries, analytics rules, Logic Apps playbooks |
+| [**fr0str4v4**](https://github.com/medexe077/fr0str4v4) | Autonomous CTF challenge analysis with tool orchestration (nmap, sqlmap, gdb), in Python |
+| **Aqualink** · JunctionX Algiers 2025 | Anomaly detection and data security architecture for an IoT water-quality system |
+| **Attendify** | AI attendance system: 87% facial recognition accuracy, 30+ API integrations |
 
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
+### 🎓 Certifications
 
-  <br /><br />
+`C3SA` · `BTJA` · `CCNA` · `Cisco Network Security` · `ISO 27001 Lead Auditor` · `ISO 42001 Lead Auditor` · `OCI DevOps Professional`
 
-  
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="60" alt="ruby logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo" />
-  <img width="12" />
+### 🌍 Community
 
+Microsoft Student Ambassador · Hackviser Campus Ambassador · Quantum Cryptography Research Contributor, Quantum Africa
 
-  <br /><br />
+---
 
-  
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
- 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo" />
-  <img width="12" />
- 
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
-
-  <br /><br />
-
-
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60" alt="seaborn logo" />
-
-  <br /><br />
-
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
-  <img width="12" />
-  
-</div>
-
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=medexe077&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=medexe077&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-
-
-
-###
+<p align="center"><i>Writeups on my <a href="https://medexe077.github.io">blog</a> · More on my <a href="https://mohameddkheddari.vercel.app/">portfolio</a></i></p>
